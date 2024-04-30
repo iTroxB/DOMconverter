@@ -23,3 +23,18 @@ sudo ln -s /path/to/my/file/DOMconverter.sh /usr/bin/DOMconverter
 - DOMconverter <domain_list.txt>
 
 ![hostScan used error](/img/dom2.png)
+
+
+- list.txt
+
+```txt
+google.com
+www.google.com
+yahoo.com
+facebook.com
+instagram.com
+```
+
+- DOMconverter list.txt
+
+![hostScan used error](/img/dom3.png)
